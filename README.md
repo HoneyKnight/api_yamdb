@@ -38,9 +38,8 @@ import_user, import_category, import_genre, import_title, import_genre_title, im
 ​
 ## Участники
 - Тимлид:
-   ![Денис Чесноков](https://github.com/DenisChesnokov)
-    Денис Чесноков https://github.com/DenisChesnokov
+    * [Денис Чесноков](https://github.com/DenisChesnokov)
 - Модель и регистрация пользователя:
-    Егор Кляц https://github.com/HoneyKnight
+    * [Егор Кляц](https://github.com/HoneyKnight)
 - Модели отзывок и коментариев, а так же заполнение БД:
-    Марина Мурина https://github.com/marinamurina
+    * [Марина Мурина](https://github.com/marinamurina)
