@@ -37,7 +37,8 @@ import_user, import_category, import_genre, import_title, import_genre_title, im
 Примеры запросов можно получить по адресу http://127.0.0.1:8000/redoc/ после запуска проекта
 ​
 ## Участники
-- Тимлид: 
+- Тимлид:
+   ![Денис Чесноков](https://github.com/DenisChesnokov)
     Денис Чесноков https://github.com/DenisChesnokov
 - Модель и регистрация пользователя:
     Егор Кляц https://github.com/HoneyKnight
