@@ -6,7 +6,6 @@ from .views import (
     GenresViewSet,
     ReviewViewSet,
     TitleViewSet,
-    ReviewViewSet,
     CommentViewSet,
     UserViewSet,
     registration,
