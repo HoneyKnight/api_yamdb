@@ -14,7 +14,6 @@ from .permissions import (
     IsAdmin
 )
 
-from .permissions import AdminOrReadOnly
 from rest_framework.decorators import action, api_view, permission_classes
 from django.conf import settings
 import uuid
@@ -36,7 +35,6 @@ from .serializers import (
     ReviewSerializer,
     ShowTitlesSerializer,
     CreateUpdateTitleSerializer,
-    ReviewSerializer,
     CommentSerializer,
     UserSerializer,
     RegisterSerializer,
